@@ -20,7 +20,7 @@ const opciones = {
   }
 
   const argv = require('yargs')
-  .command('inscribir', 'Inscribir un curso', opciones)
+  .command('inscribir', 'listar cursos', opciones)
   .argv;
 
   //función para mostrar la lista de cursos con una espera de  dos segundos

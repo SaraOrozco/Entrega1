@@ -1,0 +1,8 @@
+El nombre del estudiante es  Sara 
+ 
+     La cédula es:  1234 
+ El id cel curso es: 1
+    
+ El nombre del curso es:  programación 
+
+     Con una duración de:  60 horas Y un valor de: $  1500000 pesos
