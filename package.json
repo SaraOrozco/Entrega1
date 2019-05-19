@@ -1,0 +1,14 @@
+{
+  "name": "entrega",
+  "version": "1.0.1",
+  "description": "Entrega 1 sara",
+  "main": "cursos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sara Orozco sara.vanesa@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
